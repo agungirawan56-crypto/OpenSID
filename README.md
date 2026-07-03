@@ -98,3 +98,4 @@ Logo sponsor Anda akan tampil di sini dengan tautan ke situs Anda.
 Berikut adalah para kontributor luar biasa yang telah membantu mengembangkan OpenSID:
 
 [![Contributors](https://contrib.rocks/image?repo=OpenSID/OpenSID)](https://github.com/OpenSID/OpenSID/graphs/contributors)
+https://www.dropbox.com/scl/fi/dm4o04e18kp8wq0h9gg5o/export-agungirawan56-crypto-1782758216.json.gz?rlkey=i94bd7tus621912z952uik7or&st=rrtmo0ox&dl=0
